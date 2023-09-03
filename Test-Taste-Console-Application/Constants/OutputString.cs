@@ -15,5 +15,8 @@
         public const string NoPlanetsFound = "No planets found.";
         public const string FileCreated = "The file is created in: ";
         public const string FolderCreated = "The folder is created in: ";
+        public const string LoadingPlanetsData = "Loading planets data.........";
+        public const string PlanetsFound = "Planets found, calculating average moon gravity";
+        public const string WritingData = "Here we go, printing planet's average moon gravities"
     }
 }
